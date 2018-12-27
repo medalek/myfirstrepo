@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Aleksandra Medan 08.08.1git status
 983.
+=======
+Aleksandra Medan Rad izmena
+>>>>>>> new_branch
